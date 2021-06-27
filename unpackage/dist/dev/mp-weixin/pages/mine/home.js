@@ -150,17 +150,38 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 var _default =
 {
   data: function data() {
     return {
       name: '李森森',
       phone: '13149221121',
-      zhuanye: '计算机科学与技术',
+      zhuanye: '计算机科学与技术（本科）',
       school: '西安工业大学',
       mail: '361726964@qq.com',
-      gangwei: 'JAVA开发工程师',
-      age: '29' };
+      gangwei: 'JAVA工程师',
+      age: '29',
+      year: '5年',
+      base: '西安' };
+
 
   } };exports.default = _default;
 

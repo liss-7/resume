@@ -1,0 +1,14 @@
+#hubilder
+
+.hbuilderx
+/unpackage
+
+#build
+/build
+/dist
+
+#idea
+*.iml
+.idea/
+
+

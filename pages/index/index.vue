@@ -1,7 +1,7 @@
 <template>
 	<view>
 		<mine v-if="PageCur=='mine'"></mine>
-		<!-- <basics v-if="PageCur=='basics'"></basics>
+		<basics v-if="PageCur=='basics'"></basics>
 		<components v-if="PageCur=='component'"></components>
 		<plugin v-if="PageCur=='plugin'"></plugin>
 		<view class="cu-bar tabbar bg-white shadow foot">
@@ -29,7 +29,7 @@
 				</view>
 				<view :class="PageCur=='plugin'?'text-green':'text-gray'">扩展</view>
 			</view>
-		</view> -->
+		</view>
 	</view>
 </template>
 
